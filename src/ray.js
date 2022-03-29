@@ -48,5 +48,5 @@ class Ray {
         } else{
             return;
         }
-    }   
+    }
 }
