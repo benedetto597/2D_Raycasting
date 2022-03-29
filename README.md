@@ -1,6 +1,8 @@
-![Alt Text](https://miro.medium.com/max/1200/1*XParm6o1iwS9VPIUuLUh6g.gif)
+
 
 <div align="center">
+
+![Alt Text](https://i.ytimg.com/vi/58l0SURwYpc/hqdefault.jpg)
     
 <!-- Encabezado -->
 ## 2D Raycasting
