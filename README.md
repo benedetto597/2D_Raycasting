@@ -1,9 +1,7 @@
 ![End result](https://miro.medium.com/max/1200/1*XParm6o1iwS9VPIUuLUh6g.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <div align="center">
-
-
-    
     
 <!-- Encabezado -->
 ## 2D Raycasting
