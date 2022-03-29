@@ -1,6 +1,8 @@
 
 <div align="center">
-    <img src="https://miro.medium.com/max/1200/1*XParm6o1iwS9VPIUuLUh6g.gif"> </img> 
+
+![End result](https://miro.medium.com/max/1200/1*XParm6o1iwS9VPIUuLUh6g.gif)
+    
     
 <!-- Encabezado -->
 ## 2D Raycasting
