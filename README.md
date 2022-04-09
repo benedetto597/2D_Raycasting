@@ -6,7 +6,6 @@
     
 <!-- Encabezado -->
 ## 2D Raycasting
-### [Prueba en línea](https://2draycastingtest.000webhostapp.com/)
 ### Marzo 2022
 ### Autor 
 
